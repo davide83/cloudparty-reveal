@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Consume OVH API with Ionic",
+    "packageVersion": "0.0.1",
+    "revealTheme": "default",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "davide83",
+    "githubRepository": "cloudparty-reveal"
+  }
+}
