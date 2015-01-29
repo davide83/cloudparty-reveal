@@ -1,0 +1,17 @@
+[
+    "00-ovh.html",
+    [
+        "01-ohv-claudia1.html",
+        "01-ohv-claudia2.html",
+        "01-ohv-claudia3.html",
+        "01-ohv-claudia4.html"
+    ],
+    "02-me.md",
+    "03-roadmap.md",
+    {
+        "filename": "04-screen.html",
+        "attr": {
+            "data-background": "img/dev-environment.png"
+        }
+    }
+]
