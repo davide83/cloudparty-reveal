@@ -4,18 +4,3 @@ html body {
 	background-position: right bottom; /*Positioning*/
 	background-repeat: no-repeat; /*Prevent showing multiple background images*/
 }
-
-/*.dio-2-head {
-	position: absolute;
-	top: 50px; left: 100px;
-	z-index:500;
-	font-size:100px;
-	text-align: left;
-}*/
-
-/*.dio-bgimg {
-	background-image: url("img/it-AVEC-baseline-white-72DPI.png");
-	background-repeat: no-repeat;	
-	background-position: center center;
-	z-index:-1;
-}*/
