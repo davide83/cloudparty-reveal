@@ -3,4 +3,5 @@ html body {
 	background-image: url("img/it-AVEC-baseline-white-72DPI.png");
 	background-position: right bottom; /*Positioning*/
 	background-repeat: no-repeat; /*Prevent showing multiple background images*/
+	z-index: 10;
 }
