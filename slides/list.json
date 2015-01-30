@@ -20,7 +20,12 @@
         "01-ohv-claudia6.html"
     ],
     "02-me.md",
-    "03-roadmap.md",
+    [
+        "03-roadmap.md",
+        "03-ionic.html",
+        "03-api.html",
+        "03-console.html"
+    ],      
     {
         "filename": "04-screen.html",
         "attr": {
