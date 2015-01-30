@@ -1,8 +1,19 @@
 [
     "00-ovh.html",
     [
-        "01-ohv-claudia1.html",
-        "01-ohv-claudia2.html",
+        {
+            "filename": "01-ohv-claudia1.html",
+            "attr": {
+                "data-background": "img/klaba.jpg"
+            }
+        },
+        {
+            "filename": "01-ohv-claudia2.html",
+            "attr": {
+                "data-background": "img/earth.png"
+            }
+        }        
+        ,
         "01-ohv-claudia3.html",
         "01-ohv-claudia4.html",
         "01-ohv-claudia5.html",
